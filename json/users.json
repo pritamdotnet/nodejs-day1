@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Emma",
+        "age": "25",
+        "designation": "graphic designer"
+    },
+    {
+        "name": "Liam",
+        "age": "30",
+        "designation": "data scientist"
+    },
+    {
+        "name": "Olivia",
+        "age": "22",
+        "designation": "marketing specialist"
+    },
+    {
+        "name": "Noah",
+        "age": "28",
+        "designation": "project manager"
+    },
+    {
+        "name": "Ava",
+        "age": "27",
+        "designation": "UX designer"
+    },
+    {
+        "name": "Elijah",
+        "age": "35",
+        "designation": "network engineer"
+    },
+    {
+        "name": "Sophia",
+        "age": "24",
+        "designation": "content writer"
+    },
+    {
+        "name": "James",
+        "age": "32",
+        "designation": "product manager"
+    },
+    {
+        "name": "Isabella",
+        "age": "29",
+        "designation": "software engineer"
+    },
+    {
+        "name": "Benjamin",
+        "age": "31",
+        "designation": "cybersecurity analyst"
+    }
+]
